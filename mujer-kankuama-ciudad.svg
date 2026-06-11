@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mujer Kankuama en contexto urbano</title>
+  <desc id="desc">Ilustración editorial de una mujer con mochila frente a una ciudad, conectada mediante un hilo con las montañas de la Sierra Nevada.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#34233d"/><stop offset="1" stop-color="#76606f"/></linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d5c3a6"/><stop offset="1" stop-color="#a96b50"/></linearGradient>
+    <pattern id="weave" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 14h28M14 0v28" stroke="#f5efe5" stroke-width="4" opacity=".55"/></pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="946" cy="145" r="92" fill="#dfc7a8" opacity=".85"/>
+  <path d="M0 510L132 372l92 74 151-201 117 152 100-85 143 198z" fill="#354d3e" opacity=".88"/>
+  <path d="M0 554L151 411l80 62 145-195 114 151 102-83 147 208z" fill="none" stroke="#e4d5bf" stroke-width="4" opacity=".55"/>
+  <g fill="#211b27">
+    <path d="M700 390h96v280h-96zM814 310h118v360H814zM950 420h84v250h-84zM1050 350h110v320h-110z"/>
+    <path d="M670 670h530v150H670z"/>
+  </g>
+  <g fill="#d4a76d" opacity=".65">
+    <path d="M725 430h16v22h-16zm32 0h16v22h-16zm0 58h16v22h-16zm86-130h18v24h-18zm38 0h18v24h-18zm-38 64h18v24h-18zm38 64h18v24h-18zm95-24h14v20h-14zm104-68h18v24h-18zm42 0h18v24h-18zm-42 62h18v24h-18z"/>
+  </g>
+  <path d="M0 700c220-62 396-66 582-20 205 51 402 41 618-28v248H0z" fill="url(#ground)"/>
+  <path d="M199 384c67-48 151-57 213-6 73 59 88 207 45 322H183c-40-121-39-261 16-316z" fill="#f4eee6"/>
+  <ellipse cx="304" cy="296" rx="72" ry="87" fill="#a8654c"/>
+  <path d="M225 315c-20-124 157-158 162-22 5 116-18 179-18 179l-33-108-28-9-27 8-30 107s-12-71-26-155z" fill="#1d1820"/>
+  <path d="M186 520c37-105 197-111 246 0l37 180H153z" fill="#eee6dc"/>
+  <path d="M218 521l88 124 93-124" fill="none" stroke="#814b54" stroke-width="8"/>
+  <path d="M377 557c76 29 89 109 45 173-48 70-155 26-139-54 13-69 28-139 94-119z" fill="#65416f"/>
+  <path d="M302 660c36-36 76-40 119-7l-20 121H293z" fill="url(#weave)"/>
+  <path d="M397 585C568 537 618 460 727 389" fill="none" stroke="#d99268" stroke-width="7" stroke-linecap="round" stroke-dasharray="2 18"/>
+  <circle cx="728" cy="389" r="10" fill="#d99268"/>
+  <path d="M98 781h475" stroke="#4d344d" stroke-width="2" opacity=".5"/>
+  <text x="98" y="823" fill="#34233d" font-family="Georgia,serif" font-size="31">La memoria también hace territorio en la ciudad</text>
+</svg>
